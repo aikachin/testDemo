@@ -1,2 +1,2 @@
 # testDemo
-My first project to test with maven and testNG.
+My first project to test with maven and testNG by IDEA.
